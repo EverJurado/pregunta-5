@@ -1,0 +1,13 @@
+c:\users\dell\documents\visual studio 2012\Projects\examen\examen\bin\Debug\examen.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\examen\examen\bin\Debug\examen.exe
+c:\users\dell\documents\visual studio 2012\Projects\examen\examen\bin\Debug\examen.pdb
+c:\users\dell\documents\visual studio 2012\Projects\examen\examen\obj\Debug\examen.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2012\Projects\examen\examen\obj\Debug\examen.Form1.resources
+c:\users\dell\documents\visual studio 2012\Projects\examen\examen\obj\Debug\examen.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2012\Projects\examen\examen\obj\Debug\examen.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2012\Projects\examen\examen\obj\Debug\examen.exe
+c:\users\dell\documents\visual studio 2012\Projects\examen\examen\obj\Debug\examen.pdb
+c:\users\dell\documents\visual studio 2012\Projects\examen\examen\obj\Debug\examen.AdministradorForm.resources
+c:\users\dell\documents\visual studio 2012\Projects\examen\examen\obj\Debug\examen.UsuarioForm.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\examen\examen\obj\Debug\examen.adicionar.resources
+C:\Users\DELL\documents\visual studio 2012\Projects\examen\examen\obj\Debug\examen.AdiCatastro.resources
